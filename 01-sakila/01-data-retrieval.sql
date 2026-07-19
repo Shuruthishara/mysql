@@ -1,3 +1,18 @@
+/*
+Topics Covered:
+
+- Retrieving rows
+- Filtering data
+- Sorting results
+- Pattern matching
+- NULL handling
+- Aliases
+- String functions
+- Basic date functions
+- Pagination (LIMIT / OFFSET)
+*/
+
+
 -- Display the full name of every actor.
 select concat_ws(' ', first_name, last_name) as `Actor Name`
 from actor;
