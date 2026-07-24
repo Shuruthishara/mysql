@@ -2,14 +2,7 @@
 
 SQL query practice using MySQL's official Sakila sample database.
 
-## Files
-
-✅ 01-data-retrieval.sql
-⏳ 02-data-aggregation.sql
-⏳ 03-table-relationships.sql
-⏳ 04-business-problems.sql
-
-## Concepts
+## Topics Covered
 
 - SELECT
 - WHERE
@@ -25,3 +18,16 @@ SQL query practice using MySQL's official Sakila sample database.
 - Joins
 - Subqueries
 - CASE
+
+## Project Structure
+
+01-sakila/
+│
+├── 01-data-retrieval.sql
+├── 02-data-aggregation.sql
+├── 03-table-relationships.sql
+└── 04-business-problems.sql
+
+## Goal
+
+Strengthen SQL querying skills by solving practical problems using the existing sample database and mastering data retrieval and analysis.

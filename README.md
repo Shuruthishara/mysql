@@ -2,7 +2,7 @@
 
 A collection of MySQL practice queries and database exercises to build strong SQL and database management skills through hands-on learning.
 
-## Topics
+## Topics Covered
 
 - SQL Basics
 - Data Retrieval
@@ -18,10 +18,12 @@ A collection of MySQL practice queries and database exercises to build strong SQ
 - Views
 - Stored Procedures
 
-## Practice
+## Repository Structure
 
-✅ Sakila Database  
-⏳ Custom Database Projects
+mysql/
+│
+├── 01-sakila/
+└── 02-ecommerce-db/
 
 ## Tech Stack
 
@@ -30,3 +32,7 @@ A collection of MySQL practice queries and database exercises to build strong SQ
 - VS Code
 - Git
 - GitHub
+
+## Goal
+
+Develop strong SQL and database management skills through practical exercises, progressing from querying existing databases to designing and building real-world database systems.
